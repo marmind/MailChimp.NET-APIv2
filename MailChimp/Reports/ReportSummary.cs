@@ -1,7 +1,7 @@
 using System.Runtime.Serialization;
 using System.Collections.Generic;
 
-namespace MailChimp.Reports
+namespace MailChimpApiV2.Reports
 {
     /// <summary>
     /// optional - various extra options based on the campaign type

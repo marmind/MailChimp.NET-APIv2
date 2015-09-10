@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Templates
+namespace MailChimpApiV2.Templates
 {
     /// <summary>
     /// Template Information

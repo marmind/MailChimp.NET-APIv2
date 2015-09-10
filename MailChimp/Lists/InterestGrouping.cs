@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Runtime.Serialization;
 
-namespace MailChimp.Lists
+namespace MailChimpApiV2.Lists
 {
     /// <summary>
     /// Interest grouping

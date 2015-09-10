@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Users
+namespace MailChimpApiV2.Users
 {
     /// <summary>
     /// The current user's details

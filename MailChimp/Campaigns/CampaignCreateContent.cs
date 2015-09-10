@@ -1,7 +1,7 @@
 ﻿using System.Runtime.Serialization;
 using System.Collections.Generic;
 
-namespace MailChimp.Campaigns
+namespace MailChimpApiV2.Campaigns
 {
     /// <summary>
     /// the content for this campaign - use a struct with the one of the following keys:

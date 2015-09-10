@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Folders
+namespace MailChimpApiV2.Folders
 {
     [DataContract]
     public class FolderActionResult

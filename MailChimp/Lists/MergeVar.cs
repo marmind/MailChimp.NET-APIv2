@@ -5,7 +5,7 @@ using System.Runtime.Serialization;
 
 using ServiceStack.Text;
 
-namespace MailChimp.Lists
+namespace MailChimpApiV2.Lists
 {
     /// <summary>
     /// optional merges for the email (FNAME, LNAME, etc.) 

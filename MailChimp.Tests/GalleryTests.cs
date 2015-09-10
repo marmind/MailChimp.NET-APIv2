@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using MailChimpApiV2.Gallery;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MailChimp.Gallery;
 
-namespace MailChimp.Tests
+namespace MailChimpApiV2.Tests
 {
     [TestClass]
     public class GalleryTests

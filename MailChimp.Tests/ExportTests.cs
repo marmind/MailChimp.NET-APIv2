@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using MailChimp.Lists;
+using MailChimpApiV2.Lists;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
-using MailChimp.Helper;
+using MailChimpApiV2.Helper;
 using System.Diagnostics;
 
-namespace MailChimp.Tests
+namespace MailChimpApiV2.Tests
 {
     [TestClass]
     public class ExportTests

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace MailChimp.Helper
+namespace MailChimpApiV2.Helper
 {
     /// <summary>
     /// Send your HTML content to have the CSS inlined and optionally remove the original styles.

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace MailChimp.Templates
+namespace MailChimpApiV2.Templates
 {
     /// <summary>
     /// Retrieve various templates available in the system, allowing some thing similar to our template gallery to be created.

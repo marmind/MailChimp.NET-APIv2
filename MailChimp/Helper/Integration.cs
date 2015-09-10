@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace MailChimp.Helper
+namespace MailChimpApiV2.Helper
 {
     /// <summary>
     /// Class to represent each connected integration that can be used with campaigns

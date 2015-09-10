@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Campaigns
+namespace MailChimpApiV2.Campaigns
 {
     /// <summary>
     /// optional - one or more of these keys set to the tag to use - that can be any custom text (up to 50 bytes)

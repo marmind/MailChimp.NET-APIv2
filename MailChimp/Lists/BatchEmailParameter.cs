@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
-using MailChimp.Helper;
+using MailChimpApiV2.Helper;
 
-namespace MailChimp.Lists
+namespace MailChimpApiV2.Lists
 {
     [DataContract]
     public class BatchEmailParameter

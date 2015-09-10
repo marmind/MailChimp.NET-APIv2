@@ -1,11 +1,11 @@
-﻿using MailChimp.Lists;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
+using MailChimpApiV2.Lists;
 
-namespace MailChimp.Reports
+namespace MailChimpApiV2.Reports
 {
     /// <summary>
     /// the list of email addresses that clicked on a given url, and how many times they clicked

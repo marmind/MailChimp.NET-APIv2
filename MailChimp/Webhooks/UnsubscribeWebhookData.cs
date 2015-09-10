@@ -1,8 +1,8 @@
-﻿using MailChimp.Lists;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
+using MailChimpApiV2.Lists;
 
-namespace MailChimp.Webhooks
+namespace MailChimpApiV2.Webhooks
 {
     /// <summary>
     /// Data returned from an Unsubscribe Webhook

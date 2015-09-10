@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace MailChimp.Templates
+namespace MailChimpApiV2.Templates
 {
     /// <summary>
     /// The values to updates - while both are optional, at least one should be provided. Both can be updated at the same time.

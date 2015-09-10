@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Helper
+namespace MailChimpApiV2.Helper
 {
     /// <summary>
     /// Campaign data for each matching campaign

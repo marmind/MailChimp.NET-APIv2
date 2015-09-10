@@ -1,7 +1,7 @@
 ﻿using System.Configuration;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MailChimp.Tests
+namespace MailChimpApiV2.Tests
 {
     /// <summary>
     /// Global test information is set in this class

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace MailChimp.Templates
+namespace MailChimpApiV2.Templates
 {
     /// <summary>
     /// Undelete (reactivate) a user template

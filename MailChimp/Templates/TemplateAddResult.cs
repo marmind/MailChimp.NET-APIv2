@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
 
-namespace MailChimp.Templates
+namespace MailChimpApiV2.Templates
 {
     /// <summary>
     /// Create a new user template, NOT campaign content. These templates can then be applied while creating campaigns.

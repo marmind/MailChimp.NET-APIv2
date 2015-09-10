@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp
+namespace MailChimpApiV2
 {
     [DataContract]
     public class CampaignSegmentTestResult

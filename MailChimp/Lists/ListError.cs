@@ -1,7 +1,7 @@
-﻿using MailChimp.Helper;
-using System.Runtime.Serialization;
+﻿using System.Runtime.Serialization;
+using MailChimpApiV2.Helper;
 
-namespace MailChimp.Lists
+namespace MailChimpApiV2.Lists
 {
     /// <summary>
     /// Error messages from batch subscribes

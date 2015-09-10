@@ -1,7 +1,7 @@
 ﻿using System.Runtime.Serialization;
-using MailChimp.Campaigns;
+using MailChimpApiV2.Campaigns;
 
-namespace MailChimp.Lists
+namespace MailChimpApiV2.Lists
 {
     [DataContract]
     public class AddCampaignSegmentOptions

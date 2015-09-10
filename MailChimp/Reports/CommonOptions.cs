@@ -1,4 +1,4 @@
-﻿namespace MailChimp.Reports
+﻿namespace MailChimpApiV2.Reports
 {
     using System.Runtime.Serialization;
 

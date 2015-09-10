@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using MailChimp.Campaigns;
-using MailChimp.Lists;
+using MailChimpApiV2.Campaigns;
+using MailChimpApiV2.Helper;
+using MailChimpApiV2.Lists;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
-using MailChimp.Helper;
 using System.Diagnostics;
 
-namespace MailChimp.Tests
+namespace MailChimpApiV2.Tests
 {
     [TestClass]
     public class ListTests

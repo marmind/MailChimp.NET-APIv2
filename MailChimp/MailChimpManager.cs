@@ -1,21 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using MailChimp.Campaigns;
-using MailChimp.Ecomm;
-using MailChimp.Errors;
-using MailChimp.Folders;
-using MailChimp.Gallery;
-using MailChimp.Helper;
-using MailChimp.Lists;
-using MailChimp.Reports;
-using MailChimp.Templates;
-using MailChimp.Users;
+using MailChimpApiV2.Campaigns;
+using MailChimpApiV2.Ecomm;
+using MailChimpApiV2.Errors;
+using MailChimpApiV2.Folders;
+using MailChimpApiV2.Gallery;
+using MailChimpApiV2.Helper;
+using MailChimpApiV2.Lists;
+using MailChimpApiV2.Reports;
+using MailChimpApiV2.Templates;
+using MailChimpApiV2.Users;
 using ServiceStack.Text;
 using System.IO;
 
 
-namespace MailChimp
+namespace MailChimpApiV2
 {
     #region Interface
     public interface IMailChimpManager

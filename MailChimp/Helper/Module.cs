@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace MailChimp.Helper
+namespace MailChimpApiV2.Helper
 {
     /// <summary>
     /// Provides information about a Mailchimp addon module

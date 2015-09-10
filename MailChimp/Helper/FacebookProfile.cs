@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Helper
+namespace MailChimpApiV2.Helper
 {
     /// <summary>
     /// For Facebook, represents a user/page that can be posted to.

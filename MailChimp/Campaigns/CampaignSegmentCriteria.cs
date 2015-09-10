@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Campaigns
+namespace MailChimpApiV2.Campaigns
 {
     /// <summary>
     /// Criteria to segment a list on - See http://apidocs.mailchimp.com/api/2.0/campaigns/segment-test.php for full list of segmentation options

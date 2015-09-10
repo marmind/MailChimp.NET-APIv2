@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace MailChimp.Lists
+namespace MailChimpApiV2.Lists
 {
     /// <summary>
     /// List member information

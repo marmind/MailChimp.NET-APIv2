@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace MailChimp.Campaigns
+namespace MailChimpApiV2.Campaigns
 {
     /// <summary>
     /// A list of criteria on which to segment a list

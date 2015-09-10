@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using MailChimp.Campaigns;
+using MailChimpApiV2.Campaigns;
+using MailChimpApiV2.Lists;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MailChimp.Lists;
 
-namespace MailChimp.Tests
+namespace MailChimpApiV2.Tests
 {
     [TestClass]
     public class CampaignTests

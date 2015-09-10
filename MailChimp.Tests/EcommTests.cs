@@ -1,9 +1,9 @@
-﻿using MailChimp.Ecomm;
-using MailChimp.Lists;
+﻿using MailChimpApiV2.Ecomm;
+using MailChimpApiV2.Lists;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 
-namespace MailChimp.Tests
+namespace MailChimpApiV2.Tests
 {
     [TestClass]
     public class EcommTests

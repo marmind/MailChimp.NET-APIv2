@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Campaigns
+namespace MailChimpApiV2.Campaigns
 {
     /// <summary>
     /// optional used for "daily" schedules only, an array of the ISO-8601 weekday numbers to send on

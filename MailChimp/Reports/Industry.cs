@@ -1,6 +1,6 @@
 using System.Runtime.Serialization;
 
-namespace MailChimp.Reports
+namespace MailChimpApiV2.Reports
 {
     /// <summary>
     /// optional - various extra options based on the campaign type

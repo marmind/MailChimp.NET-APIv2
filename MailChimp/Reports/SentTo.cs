@@ -1,8 +1,8 @@
 using System.Runtime.Serialization;
 using System.Collections.Generic;
-using MailChimp.Lists;
+using MailChimpApiV2.Lists;
 
-namespace MailChimp.Reports
+namespace MailChimpApiV2.Reports
 {
     
      /// <summary>

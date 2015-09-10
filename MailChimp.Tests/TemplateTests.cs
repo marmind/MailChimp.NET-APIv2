@@ -1,9 +1,9 @@
 ﻿using System;
+using MailChimpApiV2.Templates;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MailChimp.Templates;
 using System.IO;
 
-namespace MailChimp.Tests
+namespace MailChimpApiV2.Tests
 {
     [TestClass]
     public class TemplateTests

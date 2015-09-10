@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Lists
+namespace MailChimpApiV2.Lists
 {
     [DataContract]
     public class SubscriberLocation

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace MailChimp.Gallery
+namespace MailChimpApiV2.Gallery
 {
     [DataContract]
     public class GalleryListResult

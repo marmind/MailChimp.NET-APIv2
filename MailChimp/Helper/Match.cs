@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
-using MailChimp.Lists;
+using MailChimpApiV2.Lists;
 
-namespace MailChimp.Helper
+namespace MailChimpApiV2.Helper
 {
     [DataContract]
     public class Match

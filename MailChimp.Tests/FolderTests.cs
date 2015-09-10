@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using MailChimp.Folders;
+using MailChimpApiV2.Folders;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MailChimp.Tests
+namespace MailChimpApiV2.Tests
 {
     [TestClass]
     public class FolderTests

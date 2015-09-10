@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
-using MailChimp.Lists;
+using MailChimpApiV2.Lists;
 
-namespace MailChimp.Reports
+namespace MailChimpApiV2.Reports
 {
     /// <summary>
     /// a total of all unsubscribed emails and the specific members for this page

@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using MailChimp.Users;
+using MailChimpApiV2.Users;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace MailChimp.Tests
+namespace MailChimpApiV2.Tests
 {
     [TestClass]
     public class UserTests

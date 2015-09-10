@@ -7,8 +7,8 @@
     <ProjectGuid>{4018D082-4F31-4013-B602-451666E07649}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MailChimp</RootNamespace>
-    <AssemblyName>MailChimp</AssemblyName>
+    <RootNamespace>MailChimpApiV2</RootNamespace>
+    <AssemblyName>MailChimpApiV2</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>

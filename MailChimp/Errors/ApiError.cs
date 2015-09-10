@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Errors
+namespace MailChimpApiV2.Errors
 {
     /// <summary>
     /// Class for API error information from the Mailchimp API

@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace MailChimp.Webhooks
+namespace MailChimpApiV2.Webhooks
 {
     /// <summary>
     /// Response from an Unsubscribe Webhook

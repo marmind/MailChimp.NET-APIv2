@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
+using MailChimpApiV2.Campaigns;
+using MailChimpApiV2.Errors;
 using ServiceStack.Text;
-using MailChimp.Errors;
-using MailChimp.Campaigns;
 
-namespace MailChimp
+namespace MailChimpApiV2
 {
     #region Interface
     public interface IMailChimpExportManager

@@ -1,11 +1,11 @@
-﻿using MailChimp.Helper;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.Text;
+using MailChimpApiV2.Helper;
 
-namespace MailChimp.Lists
+namespace MailChimpApiV2.Lists
 {
     [DataContract]
     public class MemberActivity
